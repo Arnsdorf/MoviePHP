@@ -1,3 +1,3 @@
-# Kickstarter projekt med PHP
+# Sigurd's lille PHP projekt.
 
-Klon dette projekt og kom hurtigt i gang med dit næste projekt.
+
